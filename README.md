@@ -19,8 +19,8 @@
 ### 1. 克隆仓库
 
 ```bash
-git clone https://github.com/White-Aut/course-study-portfolio.git
-cd course-study-portfolio/掘金头条-黑马FASTAPI课程-后端
+git clone https://github.com/White-Aut/course-study-project.git
+cd course-study-project
 ```
 
 ### 2. 创建虚拟环境
